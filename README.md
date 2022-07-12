@@ -14,3 +14,4 @@ sudo mv dark.conf /usr/share/qt5ct/colors
 3. run `qt5ct`
 5. select `Custom`
 6. change color scheme to `dark`
+7. click `OK`
