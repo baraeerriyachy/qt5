@@ -10,6 +10,7 @@ sudo mv dark.conf /usr/share/qt5ct/colors
 ```
 # Activation
 1. add `QT_QPA_PLATFORMTHEME=qt5ct` to `/etc/environment`
-2. run `qt5ct`
-3. select `Custom`
-4. change color scheme to `dark`
+2. logout and login
+3. run `qt5ct`
+5. select `Custom`
+6. change color scheme to `dark`
